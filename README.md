@@ -1,5 +1,5 @@
 # Bootstrap-initiation
-## finally finish!
+## First approach on Bootstrap, only work on the row and column system, nothing fancy!
 
 [*click here to check*](https://flavianomucedda.github.io/Bootstrap-initiation/)
 1. open bootstrap
